@@ -1,2 +1,2 @@
 # Power-BI-dashboards
-Dashboards created in Power BI
+This repository consists of different visualization dashboards that I have created leveraging Power BI
